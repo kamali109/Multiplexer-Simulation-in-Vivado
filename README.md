@@ -56,13 +56,13 @@ You can include the timing diagram from the simulation window showing the correc
 Once done, close the simulation by going to Simulation → "Close Simulation".
 ```
 ## Logic Diagram
-```
+
 ![image](https://github.com/user-attachments/assets/d4ab4bc3-12b0-44dc-8edb-9d586d8ba856)
-```
+
 ## Truth Table
-```
+
 ![image](https://github.com/user-attachments/assets/c850506c-3f6e-4d6b-8574-939a914b2a5f)
-```
+
 ## VERILOG CODE:
 
 ## 4:1 MUX Gate-Level Implementation
